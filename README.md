@@ -1,9 +1,11 @@
 # Терюха Михаил
-20 лет | misha37a999@yandex.ru | https://github.com/xtoter | https://t.me/misha37a
+21 год | misha37a999@yandex.ru | https://github.com/xtoter | https://t.me/misha37a
 # Практика
 * [Mimic](https://github.com/bmstu-iu9/ptp2021-6-2d-game) **[Typescript]** Июнь 2021 - Август 2021 - МГТУ, Москва
 * Внедрение поддержки юникода в системе программирования РЕФАЛ-5  **[C, REFAL]** Июнь 2022 - Август 2022 - Институт программных систем РАН, Переславль-Залесский
+* Внедрение поддержки юникода под windows в системе программирования РЕФАЛ-5  **[C, REFAL]** Сентябрь 2022 - 2023 - МГТУ Баумана && Институт программных систем РАН, Переславль-Залесский
 # Проекты
+* [Chipollino](https://github.com/StarikTenger/Chipollino) **[C++/Refal]** 
 * [Assembly-calculator](https://github.com/xtoter/Assembly-calculator) **[Assembly]** 
 * [Бот для вк](https://github.com/xtoter/sonikbot) **[Go]** 
 * [Порт SS2 под linux](https://github.com/xtoter/SpaceSodomy2) **[C++]** 
@@ -17,9 +19,10 @@
 # Профессиональные навыки:
 * опыт работы с С, Go, С++, Java, JS. TS, R5RS, assembly;
 * опыт работы с системами контроля версий (Git, subversion);
+* навыки написания различных скриптов (bash)
+* Навыки работы с Docker;
 * опыт адаптивной верстки;
 * опыт написания распределенных систем;
-* навыки привязки к пользовательскому интерфейсу скриптов, которые обеспечивают визуализацию и анимацию страниц
 * навык работы с OpenGL;
 * навыки обеспечения необходимого уровня пользовательского интерфейса (UI — User Interface) и опыта взаимодействия (UX — User Experience);
 
